@@ -1,0 +1,8 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: anupamn@andrew.cmu.edu # your email address
+scholar_userid: mtlFkZkAAAAJ # your Google Scholar ID
+linkedin_username: anupam-n-86367b15a # your LinkedIn username
+x_username: Annuppammm # your X (Twitter) username
+dblp_url: https://dblp.org/pid/338/9272.html # your DBLP profile URL
