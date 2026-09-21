@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hunchings.github.io/sitemap.xml
