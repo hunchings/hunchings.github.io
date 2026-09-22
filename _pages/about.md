@@ -2,10 +2,6 @@
 layout: about
 title: home
 permalink: /
-subtitle: >
-  Ph.D. Candidate, <a href='https://www.ece.cmu.edu/'>Electrical &amp; Computer Engineering</a>,
-  <a href='https://www.cmu.edu/'>Carnegie Mellon University</a>
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -25,9 +21,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello there! I'm a Ph.D. candidate in the Department of [Electrical and Computer Engineering (ECE)](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I'm advised by [Prof. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). I have also previously been a student research intern with [Google Research NYC](https://research.google/locations/new-york/).
+Hello there! I'm a Ph.D. candidate in the Department of [Electrical and Computer Engineering (ECE)](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I'm advised by [Prof. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). I have also previously been a student research intern with [Google Research NYC](https://research.google).
 
-My research interests evolve roughly every three months (or with every major pretraining cycle changing the research landscape). Currently, I'm particularly interested in the algorithmic and theoretical foundations of:
+My research interests evolve roughly every three months (or with every major pretraining cycle changing the research landscape). Currently, I'm interested in the algorithmic and theoretical foundations of:
 
 1. RL Scaling, Continual Learning, and Self-Improvement
 2. Data and Training Dynamics for Pretraining and Midtraining

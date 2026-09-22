@@ -42,3 +42,9 @@
   --global-theme-color: #0076df;
   --global-hover-color: #0076df;
 }
+
+/* Site override: smaller type for the address block under the profile photo. */
+.profile .more-info {
+  font-size: 0.75rem;
+  line-height: 1.35;
+}
