@@ -55,3 +55,13 @@ html[data-theme="dark"] {
   font-size: 0.75rem;
   line-height: 1.35;
 }
+
+/* Site override: a link that keeps the body text colour instead of the accent,
+   picking the accent up only on hover. Applied via kramdown IAL: {:.plain-link} */
+a.plain-link {
+  color: var(--global-text-color);
+
+  &:hover {
+    color: var(--global-hover-color);
+  }
+}

@@ -21,7 +21,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello there! I'm a Ph.D. candidate in the Department of [Electrical and Computer Engineering (ECE)](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I'm advised by [Prof. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). I have also previously been a student research intern with [Google Research NYC](https://research.google).
+Hello there! I'm a Ph.D. candidate in the Department of [Electrical and Computer Engineering (ECE)](https://www.ece.cmu.edu/){:.plain-link} at [Carnegie Mellon University](https://www.cmu.edu/), where I'm advised by [Prof. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). I have also previously been a student research intern with [Google Research NYC](https://research.google).
 
 My research interests evolve roughly every three months (or with every major pretraining cycle changing the research landscape). Currently, I'm interested in the algorithmic and theoretical foundations of:
 
@@ -35,4 +35,4 @@ Before joining CMU, I was an Electrical Engineering undergrad at [IIT Bombay](ht
 
 While I am not working/thinking about AI (pacing the frontier), I enjoy reading philosophy, human behavior, military aviation and space exploration. I also like skiing, weightlifting and swimming.
 
-You can reach out at [anupamn@andrew.cmu.edu](mailto:anupamn@andrew.cmu.edu) if you're interested in collaborating or discussing research!
+You can reach out at `anupamn@andrew.cmu.edu` if you're interested in collaborating or discussing research!
