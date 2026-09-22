@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: anupam # browser-tab / navbar name; the home page heading comes from first_name + last_name
+title: Anupam # browser-tab / navbar name; the home page heading comes from first_name + last_name
 first_name: Anupam
 middle_name:
 last_name: Nayak
