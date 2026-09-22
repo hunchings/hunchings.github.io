@@ -45,11 +45,9 @@
 /* Dark mode gets green instead of the theme's cyan. Matching the theme's own
    `html[data-theme="dark"]` specificity (0,1,1) and coming later, so it wins. */
 html[data-theme="dark"] {
-  /* Forest green. #228b22 is the truer forest tone but only reaches 3.88:1 on
-     the theme's #1c1c1d background; this is the deepest green that still clears
-     4.5:1. Background is left at the theme default charcoal. */
-  --global-theme-color: #2f9e44;
-  --global-hover-color: #2f9e44;
+  /* Emerald. 6.71:1 on the theme's #1c1c1d background. */
+  --global-theme-color: #10b981;
+  --global-hover-color: #10b981;
 }
 
 /* Site override: smaller type for the address block under the profile photo. */
