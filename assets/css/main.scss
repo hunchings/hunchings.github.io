@@ -47,6 +47,9 @@
 html[data-theme="dark"] {
   --global-theme-color: #3fb950;
   --global-hover-color: #3fb950;
+  /* Theme default is #1c1c1d (soft charcoal); true black reads darker.
+     The navbar uses this same token, so both move together. */
+  --global-bg-color: #000000;
 }
 
 /* Site override: smaller type for the address block under the profile photo. */
