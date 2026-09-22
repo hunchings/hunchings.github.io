@@ -206,6 +206,7 @@ kramdown:
 include: ["_pages", ".nojekyll"]
 exclude:
   - AGENTS.md
+  - circleinsquare.png # local screenshot; keep it off the published site
   - al-folio-upgrade-report.md
   - bin/
   - CLAUDE.md
