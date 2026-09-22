@@ -16,7 +16,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Anupam Nayak, CMU, ECE, machine learning, reinforcement learning, LLM, alignment
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: favi.ico # declared as <link rel="shortcut icon">; ICO is the form Safari handles most reliably
+icon: # left unset on purpose: the icon is inlined as a data URI in _layouts/default.liquid
 apple_touch_icon: /assets/favicons/apple-touch-icon.png # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: https://hunchings.github.io # the base hostname & protocol for your site
