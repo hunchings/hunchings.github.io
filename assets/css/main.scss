@@ -33,14 +33,20 @@
 @use "typograms";
 
 /* -----------------------------------------------------------------------------
-   Site override: keep the accent colour blue in light mode.
-   The theme default is magenta (#b509ac) in light and cyan (#2698ba) in dark,
-   so links flipped blue -> pink when leaving dark mode. Dark mode is untouched:
-   `html[data-theme="dark"]` (0,1,1) outranks `:root` (0,1,0).
+   Site override: accent colour. Blue in light mode, green in dark mode.
+   Theme defaults were magenta (#b509ac) light and cyan (#2698ba) dark, which is
+   why links flipped blue -> pink when leaving dark mode.
    -------------------------------------------------------------------------- */
 :root {
   --global-theme-color: #0076df;
   --global-hover-color: #0076df;
+}
+
+/* Dark mode gets green instead of the theme's cyan. Matching the theme's own
+   `html[data-theme="dark"]` specificity (0,1,1) and coming later, so it wins. */
+html[data-theme="dark"] {
+  --global-theme-color: #3fb950;
+  --global-hover-color: #3fb950;
 }
 
 /* Site override: smaller type for the address block under the profile photo. */
