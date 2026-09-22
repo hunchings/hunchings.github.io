@@ -45,11 +45,11 @@
 /* Dark mode gets green instead of the theme's cyan. Matching the theme's own
    `html[data-theme="dark"]` specificity (0,1,1) and coming later, so it wins. */
 html[data-theme="dark"] {
-  --global-theme-color: #3fb950;
-  --global-hover-color: #3fb950;
-  /* Theme default is #1c1c1d (soft charcoal); true black reads darker.
-     The navbar uses this same token, so both move together. */
-  --global-bg-color: #000000;
+  /* Forest green. #228b22 is the truer forest tone but only reaches 3.88:1 on
+     the theme's #1c1c1d background; this is the deepest green that still clears
+     4.5:1. Background is left at the theme default charcoal. */
+  --global-theme-color: #2f9e44;
+  --global-hover-color: #2f9e44;
 }
 
 /* Site override: smaller type for the address block under the profile photo. */
