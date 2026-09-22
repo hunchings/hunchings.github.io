@@ -36,7 +36,8 @@
       test pages that this file-based pair does work in Safari, so `icon:` is
       left unset in _config.yml and these are the only icons declared.
     {%- endcomment -%}
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicons/icon-32.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicons/favi-32.png' | relative_url | bust_file_cache }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/favicons/favi-16.png' | relative_url | bust_file_cache }}">
   </head>
 
   <!-- Body -->
