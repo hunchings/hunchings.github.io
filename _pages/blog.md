@@ -7,4 +7,4 @@ nav: true
 nav_order: 2
 ---
 
-Under construction, coming soon!
+- **[Retaining Long Context Reasoning Performance During Late Stage Architecture Conversion](/late-stage-patching/)**
