@@ -23,16 +23,15 @@ latest_posts:
 
 Hello there! I'm a Ph.D. candidate in the Department of [Electrical and Computer Engineering (ECE)](https://www.ece.cmu.edu/){:.plain-link} at [Carnegie Mellon University](https://www.cmu.edu/), where I'm advised by [Prof. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). I have also previously been a student research intern with [Google Research NYC](https://research.google).
 
-My research interests evolve roughly every three months (or with every major pretraining cycle changing the research landscape). Currently, I'm interested in the algorithmic and theoretical foundations of:
+My research interests evolve approximately every three months, shaped by inspiring interactions with fellow PhD students Currently, I'm interested in the algorithmic and theoretical foundations of:
 
-1. RL Scaling, Continual Learning, and Self-Improvement
-2. Data and Training Dynamics for Pretraining and Midtraining
-3. Alignment and Scalable Oversight
+1. Post training/RL Scaling, Continual Learning, and Self-Improvement
+2. Alignment and Scalable Oversight
 
 In the past I have worked on online learning, game theory, coding theory, and distributed learning.
 
 Before joining CMU, I was an Electrical Engineering undergrad at [IIT Bombay](https://www.iitb.ac.in/), advised by [Prof. Nikhil Karamchandani](https://www.ee.iitb.ac.in/~nikhilk/). I was also a visiting student at the [Connectivity Section](https://vbn.aau.dk/en/organisations/connectivity) at [Aalborg University](https://www.aau.dk/), where I worked with [Prof. Petar Popovski](https://vbn.aau.dk/en/persons/petarp).
 
-While I am not working/thinking about AI (pacing the frontier), I enjoy reading philosophy, human behavior, military aviation and space exploration. I also like skiing, weightlifting and swimming.
+While I am not working/thinking about AI (pacing the frontier), I enjoy learning about philosophy, human behavior, military aviation and space exploration. I also like skiing, weightlifting and swimming.
 
 You can reach out at `anupamn@andrew.cmu.edu` if you're interested in collaborating or discussing research!

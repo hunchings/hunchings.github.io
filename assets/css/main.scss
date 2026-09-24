@@ -48,6 +48,12 @@ html[data-theme="dark"] {
   /* Emerald. 6.71:1 on the theme's #1c1c1d background. */
   --global-theme-color: #10b981;
   --global-hover-color: #10b981;
+
+  /* The theme inverts the footer in dark mode, giving a light grey band at the
+     bottom of a dark page. Use the same charcoal footer light mode already has. */
+  --global-footer-bg-color: #1c1c1d;
+  --global-footer-text-color: #e8e8e8;
+  --global-footer-link-color: #ffffff;
 }
 
 /* Site override: smaller type for the address block under the profile photo. */
