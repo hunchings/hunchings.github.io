@@ -1847,6 +1847,8 @@
 <script>
 document.body.classList.add('hasjs');
 var auA = document.getElementById('au-a'), auB = document.getElementById('au-b');
+/* Randomised co-first-author order, disabled -- kept for reference.
+   Coin-flipped on first visit, then alternated via localStorage['authorder'].
 if (auA && auB) {
   var bFirst = Math.random() < 0.5;
   try {
@@ -1856,6 +1858,10 @@ if (auA && auB) {
   } catch (e) {}
   if (bFirst) auA.parentNode.insertBefore(auB, auA);
 }
+*/
+
+// Fixed order: #au-b (Anupam Nayak) is always placed ahead of #au-a (Arian Raje).
+if (auA && auB) auA.parentNode.insertBefore(auB, auA);
 document.querySelectorAll('.fold-toggle').forEach(function (btn) {
   var fold = document.getElementById(btn.getAttribute('data-target'));
   function label() {
