@@ -34,4 +34,4 @@ Before joining CMU, I was an Electrical Engineering undergrad at [IIT Bombay](ht
 
 While I am not working/thinking about AI (pacing the frontier), I enjoy learning about philosophy, human behavior, military aviation and space exploration. I also like skiing, weightlifting and swimming.
 
-You can reach out at `anupamn@andrew.cmu.edu` if you're interested in collaborating or discussing research!
+Feel free to reach out to me at `anupamn@andrew.cmu.edu` if you'd like to chat!
